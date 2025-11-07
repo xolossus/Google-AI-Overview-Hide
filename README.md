@@ -69,7 +69,7 @@ It doesn’t interfere with network requests or block normal results — it simp
 ## ⚠️ Notes
 
 - Google frequently changes internal class names (like `.GcKpu`, `.hdzaWe`, etc.).  
-- If the filter stops working, open your browser’s DevTools (**Inspect Element**) and update the selectors in `GoogleAiOverviewHide.scss`.  
+- If the filter stops working and I have not updated the repository yet, open your browser’s DevTools (**Inspect Element**) and update the selectors in `GoogleAiOverviewHide.scss`.  
 - This filter hides only the **AI Overview** — it does **not** remove or hide the “AI mode” tab/button.
 
 ---
