@@ -78,4 +78,8 @@ It doesn’t interfere with network requests or block normal results — it simp
 
 [MIT License](LICENSE)
 
----
+## 👤 Author
+
+xolossus
+
+Designed for a seamless quality viewing experience.
